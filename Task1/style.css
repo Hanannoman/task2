@@ -1,0 +1,167 @@
+*{
+    padding:0;
+    margin: 0;
+}.parent {
+    background-color: gray;
+    width: 100vw;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+  
+   
+
+    
+    
+
+   }
+.ch1{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    
+    
+
+    
+    
+}
+    
+   
+
+.ch2{
+    background: url("tast1/pexels-marcos-felipe-177641462-16246444.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;   
+
+}
+.parent img{
+    width: 10px;
+    height: 10px;
+}
+.ch3{
+    width: 150px;
+    margin: auto;
+    
+}
+.bo{
+    border: 2px solid rgb(245, 240, 240);
+    width: 500px;
+    height: 850px;
+    margin-top: 5px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+
+    
+    
+}
+.blog{
+    display:flex;
+    gap:0px;
+    padding-left: 10px;
+    border-bottom: 1px solid rgb(232, 224, 224);
+    padding: 10px 10px;
+    
+    
+    
+
+}
+.blog-item {
+    background-color: rgb(5, 129, 252);
+    width: 300px;
+    height:50px ;
+    margin:5px 5px;
+    border-radius: 3px;
+    display: fiex;
+    font-size: 12px;
+    color: white;
+    align-items: center;
+    display: flex;
+    
+   
+
+}
+.blog-item img{
+    width: 12px;
+    height: 12px;
+}
+.ch4{
+    display: flex;
+    padding-top: 10px;
+    border-bottom: 1px solid rgb(232, 224, 224);
+    padding: 10px 0;
+    
+}
+.ch4 img{
+    width: 20px;
+    height: 20px;
+   
+  
+}
+.bo h3{
+    padding-top: 10px;
+}
+.ch5{
+display: flex;
+padding-top: 10px;
+
+}
+.ch5 img {
+    width: 25px;
+    height: 25px;
+    
+}
+.bod{
+    display:flex;
+    gap:0px;
+    padding-left: 10px;
+    border-bottom: 1px solid rgb(232, 224, 224);
+    padding: 10px 50px;
+    
+    
+    
+
+}
+.bod-item {
+    background-color: rgb(5, 129, 252);
+    width: 125px;
+    height:50px ;
+    margin:5px 5px;
+    border-radius: 3px;
+    display: fiex;
+    font-size: 12px;
+    color: white;
+    align-items: center;
+    display: flex;
+padding-left: 15px;}
+.blog1-item {
+    background-color: rgb(5, 129, 252);
+    width: 300px;
+    height:50px ;
+    margin:5px 5px;
+    border-radius: 3px;
+    display: flex;
+    font-size: 12px;
+    color: white;
+    align-items: center;
+    padding-left: 15px;
+    
+    }
+    .blog1{
+        display: flex;
+        gap:0px;
+        padding-left: 10px;
+        padding: 10px 10px;}
+        
+    
+    
